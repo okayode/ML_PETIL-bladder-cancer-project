@@ -19,7 +19,7 @@ scipy
 
 ## Implementing ML-PETIL
 
-ML-PETIL is implemented in the following order (without imputation):
+ML-PETIL is implemented in the following order:
 
 01_Pearson_Correlation_16F.ipynb  
 02_Feature_selection.ipynb  
