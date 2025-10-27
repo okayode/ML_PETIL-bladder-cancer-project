@@ -5,7 +5,7 @@ One major advance for treating solid tumors is the success of adoptive cell ther
 ML-PETIL is a tool that can first learn from patient and tumor data already collected in the clinic (local data) which data features are important for predicting TIL expansion, without the need to predefine which data categories to consider. Then, this tool predicts a possible TIL expansion for individual patients (personalized predictions) allowing to determine whether ACTTIL therapy could potentially treat an individual bladder cancer patient.
 
 
-## ML-PETIL needs the following libries
+## ML-PETIL needs the following libraries
 
 numpy
 sklearn
@@ -21,11 +21,11 @@ scipy
 
 ML-PETIL is implemented in the following order (without imputation):
 
-01_Pearson_Correlation_16F.ipynb
-02_Feature_selection.ipynb
-03_Spliting_Dataset_7F.ipynb
-04_Boxplots.ipynb
-05_Optimal_hyp_search.ipynb
+01_Pearson_Correlation_16F.ipynb  
+02_Feature_selection.ipynb  
+03_Spliting_Dataset_7F.ipynb  
+04_Boxplots.ipynb  
+05_Optimal_hyp_search.ipynb  
 06_Performance_Analysis.ipynb
 
 
