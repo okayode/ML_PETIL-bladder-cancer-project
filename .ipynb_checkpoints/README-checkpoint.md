@@ -7,6 +7,7 @@ ML-PETIL is a tool that can first learn from patient and tumor data already coll
 
 ## ML-PETIL needs the following libraries
 
+```bash
 numpy
 sklearn
 matplotlib
@@ -15,6 +16,7 @@ pandas
 tensorflow
 statsmodels
 scipy
+```
 
 
 ## Implementing ML-PETIL
@@ -29,15 +31,14 @@ ML-PETIL is implemented in the following order:
 06_Performance_Analysis.ipynb
 
 
-### Authors
+## Authors
 
 Kayode Olumoyin kayode.olumoyin@moffitt.org, Katarzyna Rejniak 
 
 
-### Source Code
+## Source Code
 https://github.com/okayode/ML_PETIL-bladder-cancer-project
 
+## License
 
-### Acknowledgements
-
-This work was supported by the grants NIH R01-CA259387, DoD-W81XWH2210340, Moffitt Cancer Center Support Grant P30-CA076292.
+This project is licensed under the GNU General Public License v3.0.
